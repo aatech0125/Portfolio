@@ -13,4 +13,8 @@ h1 {
   text-decoration: none;
   font-size: 17px;
 }
+.navigationbar a:hover {
+  background-color: #999966;
+  color: #33cc33;
+}
   
