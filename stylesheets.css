@@ -19,9 +19,8 @@ h1 {
   color: #003300;
 }
 .column {
-  box-sizing: border-box;
   float: left;
-  width: 50%;
+  width: 100%;
   padding: 10px;
   height: 300px;
 }
